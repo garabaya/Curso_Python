@@ -1,3 +1,6 @@
+#Proyecto clonado
+a=[]
+
 items = ["Mic", "Phone", 323.12, 3123.123, "Justin", "Bag", "Cliff Bars", 134]
 
 str_items = []
@@ -76,16 +79,3 @@ def my_avg(my_num_list):
 
 
 my_avg(items3)
-
-
-
-
-
-
-
-
-
-
-
-
-
