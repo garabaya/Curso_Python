@@ -1,6 +1,3 @@
-#Proyecto clonado
-a=[]
-
 items = ["Mic", "Phone", 323.12, 3123.123, "Justin", "Bag", "Cliff Bars", 134]
 
 str_items = []
